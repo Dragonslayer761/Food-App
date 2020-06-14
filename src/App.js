@@ -2,11 +2,15 @@ import React from 'react';
 
 import './App.css';
 import Header from './Header';
+import About from './About';
 
 
 function App() {
   return (
-    <Header/>
+    <div>
+      <Header/>
+      <About/>
+    </div>
   );
 }
 
