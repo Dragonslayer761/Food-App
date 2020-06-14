@@ -29,7 +29,6 @@ class Header extends Component {
                         </div>
                     </div>
                 </div>
-                <p>leena branch Code</p>
             </header>
 
         )
